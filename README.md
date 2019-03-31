@@ -4,5 +4,5 @@ This repository contains the ipython notebooks for the implementation of the per
 
 Dataset:
 
-For the perceptron algorithm , we have used hand designed data
-For the FCNN, we have used MNIST data
+1) For the perceptron algorithm , we have used hand designed data
+2) For the FCNN, we have used MNIST data
